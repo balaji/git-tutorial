@@ -1,3 +1,3 @@
-* New File
+** New File
 
-- this is a tutorial
+- this is a tutorial but a better version
